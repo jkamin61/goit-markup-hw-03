@@ -179,8 +179,6 @@ body {
     background-color: var(--select-color);
     list-style-type: none;
     display: flex;
-    padding-top: 95px;
-    padding-bottom: 95px;
     gap: 15px;
 }
 
@@ -228,7 +226,6 @@ body {
     align-items: center;
     justify-content: center;
     gap: 30px;
-    padding-bottom: 94px;
 }
 
 .team-block {
